@@ -129,7 +129,7 @@ void deleteButtonFromTo(int adress1, int adress2, uint16_t color){
 
 
 
-String buttonPressed(){
+String buttonPressed(int pressX, int pressY){
         int found = 0;
 
   #ifdef DEBUG
