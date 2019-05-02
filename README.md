@@ -5,4 +5,4 @@
 4. Edit Buttons.ino: #define MAXBUTTONCOUNT "YOUR_BUTTON_COUNT"
 5. Add button with addButton(int x, int y, int w, int h, String Name, int adress);
 6. Add buttonPressed(int pressX, int pressY); to void loop()
-7. If a button is pressed, buttonPressed will return the name of the button;
+7. If a button is pressed, buttonPressed() will return the name of the button;
