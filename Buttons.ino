@@ -1,5 +1,5 @@
 #define MAXBUTTONCOUNT 40
-#define TastaturTextSize 6
+
 
 int ButtonX[MAXBUTTONCOUNT], ButtonY[MAXBUTTONCOUNT];
 int ButtonW[MAXBUTTONCOUNT], ButtonH[MAXBUTTONCOUNT];
